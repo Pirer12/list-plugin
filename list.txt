@@ -1,1 +1,7 @@
 https://downloads.wordpress.org/plugin/elementor.1.7.11.zip`
+https://downloads.wordpress.org/plugin/advanced-access-manager.4.9.5.zip
+https://downloads.wordpress.org/plugin/page-scroll-to-id.1.6.2.zip
+https://downloads.wordpress.org/plugin/duplicate-page.zip
+https://downloads.wordpress.org/plugin/svg-support.2.3.11.zip
+https://downloads.wordpress.org/plugin/simple-custom-post-order.zip
+https://downloads.wordpress.org/plugin/cookie-notice.1.2.39.zip
