@@ -5,3 +5,4 @@ https://downloads.wordpress.org/plugin/duplicate-page.zip
 https://downloads.wordpress.org/plugin/svg-support.2.3.11.zip
 https://downloads.wordpress.org/plugin/simple-custom-post-order.zip
 https://downloads.wordpress.org/plugin/cookie-notice.1.2.39.zip
+https://downloads.wordpress.org/plugin/cookie-notice.1.2.39.zip
